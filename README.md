@@ -1,5 +1,11 @@
 # 🔥 Logic Building & DSA Multi-Language Programs
 
+![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C++%20%7C%20Java%20%7C%20JS%20%7C%20Python-blue?style=for-the-badge)  
+![Stars](https://img.shields.io/github/stars/vaibhavpatilX/logic-building-in-c-cpp-java-js-python?style=for-the-badge&color=yellow)  
+![Forks](https://img.shields.io/github/forks/vaibhavpatilX/logic-building-in-c-cpp-java-js-python?style=for-the-badge&color=brightgreen)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)  
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)  
+
 ![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C++%20%7C%20Java%20%7C%20JS%20%7C%20Python-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/vaibhavpatilcs/logic-building-in-c-cpp-java-js-python?style=for-the-badge\&color=yellow)
 ![Forks](https://img.shields.io/github/forks/vaibhavpatilcs/logic-building-in-c-cpp-java-js-python?style=for-the-badge\&color=brightgreen)
