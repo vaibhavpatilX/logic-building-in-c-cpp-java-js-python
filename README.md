@@ -24,7 +24,7 @@ Algorithms: Sorting, Searching, Recursion, Backtracking, etc.
 
 OOP Concepts: Classes, Inheritance, Polymorphism, Encapsulation
 
-<<<<<<< HEAD
+ HEAD
 Logic Building Exercises: Pattern printing, Mathematical problems, etc.
 =======
 Logic Building Exercises: Pattern printing, Mathematical problems, etc.
