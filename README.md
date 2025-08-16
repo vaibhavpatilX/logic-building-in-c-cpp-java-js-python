@@ -1,12 +1,11 @@
-# 🔥 Logic Building & DSA Multi-Language Programs
+# 🔥 Logic Building & DSA Multi-Language Programs  
 
-![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C++%20%7C%20Java%20%7C%20JS%20%7C%20Python-blue?style=for-the-badge)  
-![Stars](https://img.shields.io/github/stars/vaibhavpatilX/logic-building-in-c-cpp-java-js-python?style=for-the-badge&color=yellow)  
-![Forks](https://img.shields.io/github/forks/vaibhavpatilX/logic-building-in-c-cpp-java-js-python?style=for-the-badge&color=brightgreen)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)  
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
-![PRs](https://img.shields.io/badge/PRs-Welcome-success?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C++%20%7C%20Java%20%7C%20JS%20%7C%20Python-blue?style=for-the-badge) 
+![Stars](https://img.shields.io/github/stars/vaibhavpatilX/logic-building-in-c-cpp-java-js-python?style=for-the-badge&color=yellow) 
+![Forks](https://img.shields.io/github/forks/vaibhavpatilX/logic-building-in-c-cpp-java-js-python?style=for-the-badge&color=brightgreen) 
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge) 
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge) 
+
  
 🔥 Logic Building & DSA Multi-Language Programs
 
