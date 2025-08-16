@@ -39,6 +39,3 @@ If you’d like to add new programs or improve existing ones, feel free to fork 
 If you find this repo useful, don’t forget to star 🌟 the repository and share it with your friends.
 
 📌 Repository Name: logic-building-in-c-cpp-java-js-python
-
-✨ This version looks **professional + engaging + beginner-friendly**.  
-Do you want me to also add **badges** (like language badges, stars, forks) at the top to make it look even cooler?
